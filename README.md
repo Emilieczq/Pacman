@@ -4,5 +4,8 @@ This a Java project that I did at school about two years ago (in late 2016). It 
 P.S. The names of classes and some comments are in French.
 
 Here is the demo:
+<p align="center">
+  <img src="animation.gif"/>
+</p>
 
-![](animation.gif)
+For more details (ideasa about algorithms, explanations of codes, etc.), you could read [Rapport du project.pdf](https://github.com/Emilieczq/Pacman/blob/master/Rapport%20du%20projet.pdf) (in French).
