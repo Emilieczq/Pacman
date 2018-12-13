@@ -8,4 +8,4 @@ Here is the demo:
   <img src="animation.gif"/>
 </p>
 
-For more details (ideasa about algorithms, explanations of codes, etc.), you could read [Rapport du project.pdf](https://github.com/Emilieczq/Pacman/blob/master/Rapport%20du%20projet.pdf) (in French).
+For more details (ideasa about algorithms, explanations of codes, etc.), please read [Rapport du projet.pdf](https://github.com/Emilieczq/Pacman/blob/master/Rapport%20du%20projet.pdf) (in French).
