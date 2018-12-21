@@ -3,9 +3,10 @@ This is a Java project that I did at school in late 2016. It is a classical game
 
 P.S. The names of classes and some comments are in French.
 
-Here is the demo:
+## Preview
 <p align="center">
   <img src="animation.gif"/>
 </p>
 
-For more details (ideasa about algorithms, explanations of codes, etc.), please read [Rapport du projet.pdf](https://github.com/Emilieczq/Pacman/blob/master/Rapport%20du%20projet.pdf) (in French).
+
+**Remark:** For more details (ideas about algorithms, explanations of codes, etc.), please read [Rapport du projet.pdf](https://github.com/Emilieczq/Pacman/blob/master/Rapport%20du%20projet.pdf) (in French).
